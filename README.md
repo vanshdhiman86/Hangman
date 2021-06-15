@@ -9,8 +9,8 @@ random
 Try to guess the word.\
 The word will be a comic character name.
 
-win
+win\
 <img src="images\won.jpg" width="400">
 
-lose
+lose\
 <img src="images\lose.jpg" width="400">
